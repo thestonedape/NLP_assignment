@@ -1,0 +1,37 @@
+entity,entity_type,mention_count
+Tesla,ORG,30
+China,GPE,30
+US,GPE,20
+EV,ORG,8
+California,GPE,5
+Samsung,ORG,4
+GM,ORG,4
+BYD,ORG,3
+DHL Supply Chain,ORG,3
+Volkswagen,ORG,2
+Atomic,ORG,2
+BYD & CATL,ORG,2
+Ford,ORG,2
+Europe,LOC,2
+Explores Indian Semiconductor Suppliers,ORG,2
+Paramount,ORG,2
+Keep Pace,FAC,2
+DC,GPE,2
+Costco,ORG,2
+Build Own Semiconductor Facility,ORG,2
+LG,ORG,2
+Volvo,ORG,2
+Panasonic,ORG,2
+U.S,GPE,2
+Mercedes,ORG,2
+Korea,GPE,2
+BYD Manufacturing,ORG,1
+California DC,GPE,1
+Global Supply Chain Assembly,ORG,1
+General Motors,ORG,1
+EV Race,ORG,1
+Ex–Stellantis,ORG,1
+New Texas Facility,ORG,1
+Hardware,PRODUCT,1
+Sustainable Logistics,ORG,1
+S&P,ORG,1
